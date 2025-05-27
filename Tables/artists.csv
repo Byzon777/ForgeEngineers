@@ -1,0 +1,61 @@
+artist_id,name,city,country,followers,gender
+A001,Taylor Swift,Reading,USA,"92,000,000",Female
+A002,Bad Bunny,San Juan,Puerto Rico,"72,000,000",Male
+A003,BTS,Seoul,South Korea,"75,000,000",Male
+A004,Billie Eilish,Los Angeles,USA,"68,000,000",Female
+A005,Dua Lipa,London,UK,"58,000,000",Female
+A006,Drake,Toronto,Canada,"85,000,000",Male
+A007,Rosalía,Barcelona,Spain,"33,000,000",Female
+A008,Ed Sheeran,Halifax,UK,"79,000,000",Male
+A009,The Weeknd,Toronto,Canada,"90,000,000",Male
+A010,Karol G,Medellín,Colombia,"42,000,000",Female
+A011,SZA,St. Louis,USA,"39,000,000",Female
+A012,Rema,Benin City,Nigeria,"25,000,000",Male
+A013,Ice Spice,New York City,USA,"20,000,000",Female
+A014,Harry Styles,Redditch,UK,"64,000,000",Male
+A015,Olivia Rodrigo,Temecula,USA,"50,000,000",Female
+A016,J Balvin,Medellín,Colombia,"45,000,000",Male
+A017,Doja Cat,Los Angeles,USA,"55,000,000",Female
+A018,Shakira,Barranquilla,Colombia,"48,000,000",Female
+A019,Stray Kids,Seoul,South Korea,"40,000,000",Male
+A020,BLACKPINK,Seoul,South Korea,"70,000,000",Female
+A021,Jung Kook,Busan,South Korea,"36,000,000",Male
+A022,Lana Del Rey,Lake Placid,USA,"30,000,000",Female
+A023,Kendrick Lamar,Compton,USA,"43,000,000",Male
+A024,Megan Thee Stallion,Houston,USA,"28,000,000",Female
+A025,Travis Scott,Houston,USA,"44,000,000",Male
+A026,Peso Pluma,Zapopan,Mexico,"22,000,000",Male
+A027,Becky G,Inglewood,USA,"18,000,000",Female
+A028,Riton,Newcastle,UK,"5,000,000",Male
+A029,Arca,Caracas,Venezuela,"8,000,000",Nonbinary
+A030,Anitta,Rio de Janeiro,Brazil,"32,000,000",Female
+A031,Fred again..,London,UK,"15,000,000",Male
+A032,Hozier,Bray,Ireland,"27,000,000",Male
+A033,Tems,Lagos,Nigeria,"14,000,000",Female
+A034,Sabrina Carpenter,Lehigh Valley,USA,"19,000,000",Female
+A035,Lorde,Auckland,New Zealand,"25,000,000",Female
+A036,Stromae,Brussels,Belgium,"12,000,000",Male
+A037,Grimes,Vancouver,Canada,"10,000,000",Female
+A038,Sevdaliza,Rotterdam,Netherlands,"7,000,000",Female
+A039,Rex Orange County,Haslemere,UK,"9,000,000",Male
+A040,Tones and I,Melbourne,Australia,"13,000,000",Female
+A041,RIT,Oakland,USA,"1,200,000",Female
+A042,KAYTRA,Montreal,Canada,"2,800,000",Male
+A043,Libianca,Minneapolis,USA,"3,100,000",Female
+A044,Joy Crookes,London,UK,"6,000,000",Female
+A045,Amine,Portland,USA,"7,500,000",Male
+A046,Kali Uchis,Alexandria,USA,"11,000,000",Female
+A047,Mahalia,Leicester,UK,"5,500,000",Female
+A048,M.I.A.,London,UK,"9,500,000",Female
+A049,Sam Smith,London,UK,"35,000,000",Nonbinary
+A050,Clairo,Carlisle,USA,"6,800,000",Female
+A051,Conan Gray,Lemon Grove,USA,"12,000,000",Male
+A052,Laufey,Reykjavík,Iceland,"4,200,000",Female
+A053,Tyla,Johannesburg,South Africa,"3,800,000",Female
+A054,Ice Cube,Los Angeles,USA,"5,000,000",Male
+A055,Jean Dawson,San Diego,USA,"2,300,000",Male
+A056,Omah Lay,Port Harcourt,Nigeria,"6,000,000",Male
+A057,Phoenix,Versailles,France,"4,900,000",Male
+A058,Mitski,New York City,USA,"7,100,000",Female
+A059,NIKI,Jakarta,Indonesia,"8,400,000",Female
+A060,BENEE,Auckland,New Zealand,"5,900,000",Female

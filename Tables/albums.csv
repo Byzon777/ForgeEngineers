@@ -1,0 +1,77 @@
+album_id,name,artist_name,artist_id,year,genre,track_count,revenue (mln USD)
+AL001,Midnights,Taylor Swift,A001,2022,Pop,13,194
+AL002,Un Verano Sin Ti,Bad Bunny,A002,2022,Reggaeton,23,476
+AL003,BE,BTS,A003,2020,K-Pop,8,369
+AL004,Happier Than Ever,Billie Eilish,A004,2021,Pop,16,303
+AL005,Future Nostalgia,Dua Lipa,A005,2020,Pop,11,86
+AL006,Certified Lover Boy,Drake,A006,2021,Hip-Hop,21,86
+AL007,Motomami,Rosalía,A007,2022,Reggaeton,16,38
+AL008,x,Ed Sheeran,A008,2014,Pop,16,434
+AL009,Dawn FM,The Weeknd,A009,2022,R&B,16,305
+AL010,Mañana Será Bonito,Karol G,A010,2023,Reggaeton,15,357
+AL011,SOS,SZA,A011,2022,R&B,23,20
+AL012,Rave & Roses,Rema,A012,2022,Afrobeats,16,485
+AL013,Like...?,Ice Spice,A013,2023,Hip-Hop,5,418
+AL014,Harry's House,Harry Styles,A014,2022,Pop Rock,13,114
+AL015,Guts,Olivia Rodrigo,A015,2023,Pop Rock,12,99
+AL016,Jose,J Balvin,A016,2021,Reggaeton,18,100
+AL017,Planet Her,Doja Cat,A017,2021,Pop,14,159
+AL018,El Dorado,Shakira,A018,2017,Pop,13,267
+AL019,5-Star,Stray Kids,A019,2023,K-Pop,10,222
+AL020,Born Pink,BLACKPINK,A020,2022,K-Pop,8,153
+AL021,Golden,Jung Kook,A021,2023,Pop,8,310
+AL022,Did You Know That There's a Tunnel Under Ocean Blvd,Lana Del Rey,A022,2023,Indie Pop,16,78
+AL023,Mr. Morale & The Big Steppers,Kendrick Lamar,A023,2022,Hip-Hop,18,153
+AL024,Traumazine,Megan Thee Stallion,A024,2022,Hip-Hop,18,190
+AL025,Utopia,Travis Scott,A025,2023,Hip-Hop,19,233
+AL026,Génesis,Peso Pluma,A026,2023,Regional Mexican,16,395
+AL027,Esquinas,Becky G,A027,2023,Latin Pop,12,108
+AL028,Be The Illuminati,Riton,A028,2019,Electronic,10,262
+AL029,kick i,Arca,A029,2020,Experimental,18,300
+AL030,Versions of Me,Anitta,A030,2022,Pop,15,33
+AL031,Actual Life 3 (January 1–September 9 2022),Fred again..,A031,2023,Electronic,17,307.7
+AL032,Unreal Unearth,Hozier,A032,2023,Indie Rock,15,93.56
+AL033,If Orange Was a Place,Tems,A033,2021,Alternative R&B,10,41.88
+AL034,Emails I Can't Send,Sabrina Carpenter,A034,2022,Pop,13,474.95
+AL035,Solar Power,Lorde,A035,2021,Indie Pop,12,483.16
+AL036,Multitude,Stromae,A036,2022,Electronic,15,406.11
+AL037,Miss Anthropocene,Grimes,A037,2020,Electronic,13,159.26
+AL038,Shabrang,Sevdaliza,A038,2020,Art Pop,14,57.86
+AL039,Pony,Rex Orange County,A039,2022,Indie Pop,16,345.27
+AL040,Welcome to the Madhouse,Tones and I,A040,2021,Pop,12,225.67
+AL041,Unknown Album,RIT,A041,2023,Unknown,10,69.8
+AL042,Bubba,Kaytranada,A042,2019,Electronic,13,252.64
+AL043,Church Girl,Libianca,A043,2023,Afropop,7,26.85
+AL044,Skin,Joy Crookes,A044,2022,Soul,11,455.57
+AL045,Limbo,Aminé,A045,2020,Hip-Hop,18,136.8
+AL046,Isolation,Kali Uchis,A046,2018,R&B/Soul,13,334.64
+AL047,Love and Compromise,Mahalia,A047,2019,R&B,17,162.74
+AL048,AIM,M.I.A.,A048,2016,Electronic/Hip-Hop,12,264.83
+AL049,To Die For,Sam Smith,A049,2020,Pop/Soul,9,277.89
+AL050,Sling,Clairo,A050,2021,Indie Pop,11,100.58
+AL051,Superache,Conan Gray,A051,2022,Pop,16,485.1
+AL052,Everything I Know About Love,Laufey,A052,2023,Jazz Pop,11,389.82
+AL053,Debut EP,Tyla,A053,2023,R&B,6,470.35
+AL054,AmeriKKKa's Most Wanted,Ice Cube,A054,1990,Hip-Hop,16,448.47
+AL055,Chaos Now,Jean Dawson,A055,2020,Alternative,12,302.97
+AL056,Boy Alone,Omah Lay,A056,2023,Afrobeat,12,461.72
+AL057,Wolfgang Amadeus Phoenix,Phoenix,A057,2009,Indie Rock,10,53.36
+AL058,Laurel Hell,Mitski,A058,2022,Indie Rock,11,106.03
+AL059,Nicole,NIKI,A059,2022,R&B/Pop,16,32.16
+AL060,Hey u x,BENEE,A060,2020,Pop,7,169.41
+AL061,Scorpion,Drake,A006,2018,Hip-Hop,25,200.45
+AL062,÷,Ed Sheeran,A008,2017,Pop,16,142.96
+AL063,After Hours,The Weeknd,A009,2020,R&B,14,416.08
+AL064,Lust for Life,Lana Del Rey,A022,2017,Indie Pop,16,184.81
+AL065,Norman Fucking Rockwell!,Lana Del Rey,A022,2019,Art Pop,14,147.66
+AL066,DAMN.,Kendrick Lamar,A023,2017,Hip-Hop,14,275.92
+AL067,Astroworld,Travis Scott,A025,2018,Hip-Hop,17,79.05
+AL068,Melodrama,Lorde,A035,2017,Electropop,11,403.08
+AL069,Apricot Princess,Rex Orange County,A039,2017,Indie Pop,11,46.53
+AL070,The Kids Are Coming,Tones and I,A040,2019,Pop,7,493.57
+AL071,For Broken Ears,Tems,A033,2020,R&B,7,388.4
+AL072,Kala,M.I.A.,A048,2007,Electronic,12,107.37
+AL073,Gloria,Sam Smith,A049,2023,Pop,13,12.71
+AL074,Immunity,Clairo,A050,2019,Indie Pop,11,409.58
+AL075,Kid Krow,Conan Gray,A051,2020,Indie Pop,12,356.36
+AL076,Bewitched,Laufey,A052,2023,Jazz Pop,14,367.21
